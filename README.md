@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @suresh-majji
 - 👀 I’m interested in ... html, java script, angularjs, java, spring, spring boot, hibernate, micro services
 - 🌱 I’m currently learning ... micro services, spring cloud 
-- 💞️ I’m looking to collaborate on ... java, spring, spring boot, angularjs
+- 💞️ I’m looking to collaborate on ... java, spring, spring boot, rejact
 - 📫 How to reach me ... suresh.majji20@gmail.com
 
 <!---
